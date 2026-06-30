@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guyzn
-- 👀 I’m interested in Basic script learning 
-- 🌱 I’m currently Getting started with Python 
+- 👀 I’m interested in LLM learning 
+- 🌱 I’m currently Getting started with Vibe Coding 
 - 💞️ I’m looking to collaborate on you guys 
 - 📫 My e-mail adress is: GuyznHastings@Gmail.com
 
