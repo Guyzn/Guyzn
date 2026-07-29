@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Guyzn
 
-**Steel trade entrepreneur by day, AI agent fleet operator by night.**
+**Steel trade entrepreneur by day, open-source tool builder by night.**
 
-I run an international steel & alloy trading business (模具钢 + 特种合金) and orchestrate a heterogeneous AI agent fleet to compress trade workflows to maximum efficiency. Currently exploring Vibe Coding — building tools that make my own work faster.
+I run an international steel & alloy trading business (模具钢 + 特种合金) and orchestrate a heterogeneous AI agent fleet to compress trade workflows to maximum efficiency.
+
+Lately I've been into **Vibe Coding** — turning the real, repetitive pain points of running a steel trade desk into small, sharp open-source tools: pixel-perfect trade documents, a steel grade cross-reference dataset, a branded catalog generator, and a 4-layer memory system that lets a sales AI agent actually *remember* its customers. If a problem slows my business down, I'd rather ship a tool than suffer through it.
 
 ## 🔧 What I build
 - **AI agent orchestration** — multi-node fleet (macOS / NAS / Windows / Linux) for trade automation
