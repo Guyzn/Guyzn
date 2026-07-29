@@ -7,6 +7,7 @@ I run an international steel & alloy trading business (模具钢 + 特种合金)
 ## 🔧 What I build
 - **AI agent orchestration** — multi-node fleet (macOS / NAS / Windows / Linux) for trade automation
 - **Office document automation** — pixel-perfect steel trade docs (quotation / PI / CI / MTC) from data
+- **Steel domain tooling** — grade cross-reference datasets, branded catalog generators, sales-agent memory systems
 - **Developer tools** — theming, file organization, LLM clients
 - **Swift apps** — privacy-first local tools for macOS
 
@@ -20,6 +21,10 @@ I run an international steel & alloy trading business (模具钢 + 特种合金)
 | [desktop-ss-file-organizer](https://github.com/Guyzn/desktop-ss-file-organizer) | Smart desktop file organizer by customer ID with conflict resolution |
 | [longcat-client](https://github.com/Guyzn/longcat-client) | OpenAI-compatible client for Meituan's LongCat LLM |
 | [linkedin-diagnosis-suite](https://github.com/Guyzn/linkedin-diagnosis-suite) | 6-dimension LinkedIn marketing health diagnosis |
+| [sales-agent-memory-kit](https://github.com/Guyzn/sales-agent-memory-kit) | 4-layer memory architecture + customer doc system for sales AI agents (desensitized case study) |
+| [steel-grade-database](https://github.com/Guyzn/steel-grade-database) | Steel grade cross-reference (GB/AISI/DIN/JIS/EN) with chemistry, properties & query lib |
+| [product-catalog-generator](https://github.com/Guyzn/product-catalog-generator) | Branded catalog pipeline: HTML → Playwright PDF → image compress → OCR check |
+| [steel-trade-docs](https://github.com/Guyzn/steel-trade-docs) | Pixel-perfect steel trade doc engine (quotation/PI/PL/MTC) with contract-no hard-gates |
 
 ## 🛠 Tech Stack
 
