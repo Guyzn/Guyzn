@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Python (if any scripts added later)
+__pycache__/
+*.py[cod]
+.venv/
