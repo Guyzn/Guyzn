@@ -55,8 +55,8 @@ Most of what I build is open source.
 
 ## 📊 GitHub Stats
 
-![Guyzn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guyzn&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guyzn&theme=radical)
+![Guyzn's GitHub stats](./profile/stats.svg)
+![GitHub Streak](./profile/streak.svg)
 
 ## 📫 Connect
 
