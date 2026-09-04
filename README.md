@@ -1,19 +1,30 @@
-# Hi there 👋 I'm Guyzn / 我是盖井
+# Hi there 👋 I'm Guyzn / 盖井
 
-**Steel trade entrepreneur by day, open-source tool builder by night.**
-**白天做钢材贸易，晚上造开源工具。**
+I run a steel trading business. Mold steel and special alloys, mostly export. By day I deal with documents, reconcile accounts, and negotiate prices. By night I write code, killing off the repetitive, annoying trade workflows one tool at a time.
 
-I run an international steel & alloy trading business (模具钢 + 特种合金) and orchestrate a heterogeneous AI agent fleet to compress trade workflows to maximum efficiency.
-我经营一家国际钢材贸易公司（模具钢 + 特种合金），同时编排一支异构 AI Agent 舰队，把贸易流程压到极致高效。
+做钢材贸易的。模具钢和特种合金，出口那种。白天跑单证、对账、跟客户磨价格。晚上写代码，把那些重复的、让人烦的贸易流程，一个工具一个工具地消灭掉。
 
-Lately I've been into **Vibe Coding** — turning the real, repetitive pain points of running a steel trade desk into small, sharp open-source tools: pixel-perfect trade documents, a steel grade cross-reference dataset, a branded catalog generator, a 4-layer memory system that lets a sales AI agent actually *remember* its customers, and — on the side — historical linguistics research. If a problem slows my business down, I'd rather ship a tool than suffer through it.
-最近迷上了 **Vibe Coding** —— 把跑钢贸台桌的真实、重复痛点，变成小而锋利的开源工具：像素级贸易文档、钢材牌号对照数据集、品牌化产品目录生成器、让销售 AI Agent 真正「记住」客户的四层记忆系统，以及——顺带——历史语言学调研。哪个问题拖慢我的生意，我就宁愿造个工具，也不愿硬扛。
+Lately I got into Vibe Coding. Not the serious project kind — when I hit a repetitive annoyance, I just have AI hammer out a tool for me. Quotations, proforma invoices, packing lists, MTCs — documents that used to need human eyes, now go from data to finished product in one click. Also built a steel grade cross-reference database, GB/AISI/DIN/JIS/EN with chemistry and mechanical properties.
+
+最近迷上了 Vibe Coding。不是正经写项目那种，是遇到一个重复的麻烦，就直接让 AI 帮忙锤出一个工具来。报价单、形式发票、装箱单、MTC，这些以前要人盯的文档，现在从数据到成品一键生成。还搞了个钢材牌号对照数据库，GB/AISI/DIN/JIS/EN 互查，化学成分和力学性能都带着。
+
+On the side, I also mapped out the xundu (训读) boundary in Min dialects. PostGIS for dialect points, FastAPI for data, matplotlib for charts. The character 「肉」reads bak in Chaoshan but nek in Zhangzhou/Quanzhou — how did that boundary form? I'm curious.
+
+顺手把闽语训读的边界也做了。PostGIS 存方言点，FastAPI 出数据，matplotlib 画图。「肉」字在潮汕读 bak，在泉漳读 nek，这条边界怎么形成的，我好奇。
+
+I've got an AI agent fleet running — Mac, NAS, Windows, Linux nodes. Wrote a four-layer memory system for them so sales agents can remember what a customer said before, what they bought, which grades they prefer. Customer files are organized too, desensitized.
+
+开了个 AI Agent 舰队，Mac、NAS、Windows、Linux 都有节点。给它们写了套记忆系统，四层，让销售 Agent 能记住客户之前说过什么、买过什么、偏好哪个牌号。客户档案也归置好了，脱敏的。
+
+Most of what I build is open source.
+
+造的东西基本都开源了。
 
 ## 🔧 What I build
-- **AI agent orchestration** — multi-node fleet (macOS / NAS / Windows / Linux) for trade automation
-- **Office document automation** — pixel-perfect steel trade docs (quotation / PI / CI / MTC) from data
-- **Steel domain tooling** — grade cross-reference datasets, branded catalog generators, sales-agent memory systems
-- **Developer tools** — theming, file organization, LLM clients
+- **AI agent fleet** — Mac / NAS / Windows / Linux nodes running trade automation
+- **Document tools** — pixel-perfect steel docs (quotation / PI / CI / MTC) straight from data
+- **Steel data** — grade cross-reference (GB/AISI/DIN/JIS/EN), branded catalog generator, sales-agent memory
+- **Desktop tools** — theming, file organization, LLM clients
 - **Swift apps** — privacy-first local tools for macOS
 
 ## 🚀 Featured Projects
@@ -55,3 +66,4 @@ Lately I've been into **Vibe Coding** — turning the real, repetitive pain poin
 ---
 
 > ⚡ Fun fact: My AI agent fleet has its own code names and a strict set of operational iron laws.
+> 冷知识：我的 AI Agent 舰队有代号，还有一套严格的操作铁律。
