@@ -4,7 +4,7 @@
 
 I run an international steel & alloy trading business (模具钢 + 特种合金) and orchestrate a heterogeneous AI agent fleet to compress trade workflows to maximum efficiency.
 
-Lately I've been into **Vibe Coding** — turning the real, repetitive pain points of running a steel trade desk into small, sharp open-source tools: pixel-perfect trade documents, a steel grade cross-reference dataset, a branded catalog generator, and a 4-layer memory system that lets a sales AI agent actually *remember* its customers. If a problem slows my business down, I'd rather ship a tool than suffer through it.
+Lately I've been into **Vibe Coding** — turning the real, repetitive pain points of running a steel trade desk into small, sharp open-source tools: pixel-perfect trade documents, a steel grade cross-reference dataset, a branded catalog generator, a 4-layer memory system that lets a sales AI agent actually *remember* its customers, and — on the side — historical linguistics research. If a problem slows my business down, I'd rather ship a tool than suffer through it.
 
 ## 🔧 What I build
 - **AI agent orchestration** — multi-node fleet (macOS / NAS / Windows / Linux) for trade automation
@@ -18,7 +18,8 @@ Lately I've been into **Vibe Coding** — turning the real, repetitive pain poin
 | Project | Description |
 |---------|-------------|
 | [WorkBuddy Dream Skin](https://github.com/Guyzn/workbuddy-dream-skin) | External theming tool for WorkBuddy desktop — local CDP injection, cross-platform |
-| [Zozek Reader](https://github.com/Guyzn/Zozek_Reader_for_Intel_Mac) | Privacy-first ebook reader + TTS for Intel Mac |
+| [workbuddy-cua-mcp](https://github.com/Guyzn/workbuddy-cua-mcp) | MCP server for Intel Mac — screenshot, mouse/keyboard, window mgmt, Chrome CDP |
+| [Zozek Reader](https://github.com/Guyzn/ZozekReader) | Privacy-first ebook reader + TTS for Intel Mac |
 | [sop-outline-to-docx](https://github.com/Guyzn/sop-outline-to-docx) | Turn SOP outlines into polished Word docs with TOC, branding, tables |
 | [desktop-ss-file-organizer](https://github.com/Guyzn/desktop-ss-file-organizer) | Smart desktop file organizer by customer ID with conflict resolution |
 | [longcat-client](https://github.com/Guyzn/longcat-client) | OpenAI-compatible client for Meituan's LongCat LLM |
@@ -27,6 +28,7 @@ Lately I've been into **Vibe Coding** — turning the real, repetitive pain poin
 | [steel-grade-database](https://github.com/Guyzn/steel-grade-database) | Steel grade cross-reference (GB/AISI/DIN/JIS/EN) with chemistry, properties & query lib |
 | [product-catalog-generator](https://github.com/Guyzn/product-catalog-generator) | Branded catalog pipeline: HTML → Playwright PDF → image compress → OCR check |
 | [steel-trade-docs](https://github.com/Guyzn/steel-trade-docs) | Pixel-perfect steel trade doc engine (quotation/PI/PL/MTC) with contract-no hard-gates |
+| [pmtad](https://github.com/Guyzn/pmtad) | Min dialect xundu (训读) boundary research — PostGIS + FastAPI + matplotlib |
 
 ## 🛠 Tech Stack
 
