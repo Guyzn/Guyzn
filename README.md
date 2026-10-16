@@ -20,7 +20,12 @@ Most of what I build is open source.
 
 造的东西基本都开源了。
 
+Latest obsession: I run my whole customer archive in Obsidian — plain markdown, no plugins — and I wanted a workbench on top of it that talks to the vault in real time and still flies on a mechanical hard drive. So I built one: zero-dependency Node backend, SSE push, safe write-back with byte-level backups. That became ObsidianWork, my first project born on WorkBuddy Claw.
+
+最近的新玩具：客户档案全部放在 Obsidian 里，纯 markdown、不装插件。我想要一个跟库实时互通的工作台，还得在机械硬盘上跑得飞快。干脆自己造了一个：零依赖 Node 后端、SSE 推送、字节级备份的安全写回。这就是 ObsidianWork，第一个在 WorkBuddy Claw 上从零长到开源的项目。
+
 ## 🔧 What I build
+- **Local-first workbenches** — real-time Obsidian vault sync, fast on mechanical disks
 - **AI agent fleet** — Mac / NAS / Windows / Linux nodes running trade automation
 - **Document tools** — pixel-perfect steel docs (quotation / PI / CI / MTC) straight from data
 - **Steel data** — grade cross-reference (GB/AISI/DIN/JIS/EN), branded catalog generator, sales-agent memory
@@ -31,12 +36,14 @@ Most of what I build is open source.
 
 | Project | Description |
 |---------|-------------|
+| [ObsidianWork](https://github.com/Guyzn/obsidianwork) | Local workbench in real-time sync with your Obsidian vault — zero dependencies, mechanical-disk friendly, safe write-back |
 | [workbuddy-cua-mcp](https://github.com/Guyzn/workbuddy-cua-mcp) | MCP server for Intel Mac — screenshot, mouse/keyboard, window mgmt, Chrome CDP |
 | [WorkBuddy Dream Skin](https://github.com/Guyzn/workbuddy-dream-skin) | External theming tool for WorkBuddy desktop — local CDP injection, cross-platform |
 | [Zozek Reader](https://github.com/Guyzn/ZozekReader) | Privacy-first ebook reader + TTS for Intel Mac |
 | [sop-outline-to-docx](https://github.com/Guyzn/sop-outline-to-docx) | Turn SOP outlines into polished Word docs with TOC, branding, tables |
 | [desktop-ss-file-organizer](https://github.com/Guyzn/desktop-ss-file-organizer) | Smart desktop file organizer by customer ID with conflict resolution |
 | [longcat-client](https://github.com/Guyzn/longcat-client) | OpenAI-compatible client for Meituan's LongCat LLM |
+| [workbuddy-daily-checkin](https://github.com/Guyzn/workbuddy-daily-checkin) | Daily auto check-in points script for WorkBuddy |
 | [linkedin-diagnosis-suite](https://github.com/Guyzn/linkedin-diagnosis-suite) | 6-dimension LinkedIn marketing health diagnosis |
 | [sales-agent-memory-kit](https://github.com/Guyzn/sales-agent-memory-kit) | 4-layer memory architecture + customer doc system for sales AI agents (desensitized case study) |
 | [steel-grade-database](https://github.com/Guyzn/steel-grade-database) | Steel grade cross-reference (GB/AISI/DIN/JIS/EN) with chemistry, properties & query lib |
@@ -47,6 +54,7 @@ Most of what I build is open source.
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
